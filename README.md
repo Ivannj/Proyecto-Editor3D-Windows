@@ -22,6 +22,9 @@ Database Integration: Stores user data and designs in MySQL for efficient manage
 
 ## 📸 Demo
 Watch the Editor 3D in Action
+
+Wait until the GIF loads right here!
+
 ![Editor 3D in Action](./Assets/img/gif.gif)
 
 ---
