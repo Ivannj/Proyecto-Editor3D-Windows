@@ -40,5 +40,5 @@ Feel free to explore, learn, and build upon it!
 ## 📬 Contact
 If you have any questions, feedback, or suggestions about this project, feel free to reach out:
 
-Email: your_email@example.com
+Email: ivannhrro@gmail.com
 GitHub Issues: Open an issue in this repository for bugs or feature requests.
