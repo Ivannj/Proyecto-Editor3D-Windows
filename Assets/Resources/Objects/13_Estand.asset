@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1f7e5f30dc6d94ca646179a9ffbe29, type: 3}
+  m_Name: 13_Estand
+  m_EditorClassIdentifier: 
+  id: 13
+  name: Shelving
+  prefab: {fileID: 1306710332024508452, guid: 9703771103b4f794eacc67356640dfee, type: 3}
+  type: 3

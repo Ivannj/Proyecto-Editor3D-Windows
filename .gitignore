@@ -1,0 +1,18 @@
+# Archivos generados por Unity que no deben subirse
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos y carpetas específicas de VSCode
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
